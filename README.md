@@ -16,4 +16,5 @@ An in-depth paragraph about your project and overview of use
 `code blocks for commands`
 
 # License
-This **project** is licensed under the [NAME] License - see the LICENSE.md file for details
+This **project** is licensed under the [NAME] License - see the LICENSE.md file for details.
+If you have any aditional questions or concerns about this project, please feel free to contact me at cbecerratorres00[at]mylangara[dot]ca
